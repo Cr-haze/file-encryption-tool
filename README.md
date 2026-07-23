@@ -2,6 +2,8 @@
 
 A simple desktop tool that lets you encrypt and decrypt any file using a secret key — built with **Python**, the **`cryptography`** library (Fernet/AES), and a **Tkinter** GUI.
 
+![File Encryption & Decryption Tool preview](preview.jpeg) <!-- optional: add a screenshot here -->
+
 ## Features
 
 - 🔐 Encrypt any file into a secure `.enc` file
